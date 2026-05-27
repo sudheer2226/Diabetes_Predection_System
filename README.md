@@ -50,3 +50,5 @@ Diabetes_Predection_System/
 │── dataset/
 └── README.md
 ```
+## 👤 Author
+**Sudheer Kumar Chukkala** | [LinkedIn](https://linkedin.com/in/sudheer-kumar-chukkala)
